@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\JaTu\\study\\asp.net_mvc_tutorial\\SpendSmart\\",
+  "WorkspaceRootPath": "C:\\Users\\janat\\Documents\\study\\SpendSmart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1125311F-B53A-4F7A-B6D3-58FD146968C5}|SpendSmart.csproj|d:\\jatu\\study\\asp.net_mvc_tutorial\\spendsmart\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1125311F-B53A-4F7A-B6D3-58FD146968C5}|SpendSmart.csproj|solutionrelative:views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\janat\\Documents\\study\\SpendSmart\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1125311F-B53A-4F7A-B6D3-58FD146968C5}|SpendSmart.csproj|d:\\jatu\\study\\asp.net_mvc_tutorial\\spendsmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1125311F-B53A-4F7A-B6D3-58FD146968C5}|SpendSmart.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\janat\\Documents\\study\\SpendSmart\\Views\\Home\\Expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1125311F-B53A-4F7A-B6D3-58FD146968C5}|SpendSmart.csproj|d:\\jatu\\study\\asp.net_mvc_tutorial\\spendsmart\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1125311F-B53A-4F7A-B6D3-58FD146968C5}|SpendSmart.csproj|solutionrelative:views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\janat\\Documents\\study\\SpendSmart\\Views\\Home\\CreateEditExpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\CreateEditExpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1125311F-B53A-4F7A-B6D3-58FD146968C5}|SpendSmart.csproj|d:\\jatu\\study\\asp.net_mvc_tutorial\\spendsmart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1125311F-B53A-4F7A-B6D3-58FD146968C5}|SpendSmart.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\janat\\Documents\\study\\SpendSmart\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1125311F-B53A-4F7A-B6D3-58FD146968C5}|SpendSmart.csproj|d:\\jatu\\study\\asp.net_mvc_tutorial\\spendsmart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1125311F-B53A-4F7A-B6D3-58FD146968C5}|SpendSmart.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\janat\\Documents\\study\\SpendSmart\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1125311F-B53A-4F7A-B6D3-58FD146968C5}|SpendSmart.csproj|d:\\jatu\\study\\asp.net_mvc_tutorial\\spendsmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1125311F-B53A-4F7A-B6D3-58FD146968C5}|SpendSmart.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\janat\\Documents\\study\\SpendSmart\\Models\\SpendSmartDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\SpendSmartDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1125311F-B53A-4F7A-B6D3-58FD146968C5}|SpendSmart.csproj|d:\\jatu\\study\\asp.net_mvc_tutorial\\spendsmart\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1125311F-B53A-4F7A-B6D3-58FD146968C5}|SpendSmart.csproj|solutionrelative:models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\janat\\Documents\\study\\SpendSmart\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1125311F-B53A-4F7A-B6D3-58FD146968C5}|SpendSmart.csproj|d:\\jatu\\study\\asp.net_mvc_tutorial\\spendsmart\\models\\spendsmartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1125311F-B53A-4F7A-B6D3-58FD146968C5}|SpendSmart.csproj|solutionrelative:models\\spendsmartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\janat\\Documents\\study\\SpendSmart\\Models\\Expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,94 +42,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SpendSmartDbContext.cs",
-              "DocumentMoniker": "D:\\JaTu\\study\\asp.net_mvc_tutorial\\SpendSmart\\Models\\SpendSmartDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\SpendSmartDbContext.cs",
-              "ToolTip": "D:\\JaTu\\study\\asp.net_mvc_tutorial\\SpendSmart\\Models\\SpendSmartDbContext.cs",
-              "RelativeToolTip": "Models\\SpendSmartDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T12:27:22.072Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CreateEditExpense.cshtml",
-              "DocumentMoniker": "D:\\JaTu\\study\\asp.net_mvc_tutorial\\SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
+              "DocumentMoniker": "C:\\Users\\janat\\Documents\\study\\SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\CreateEditExpense.cshtml",
-              "ToolTip": "D:\\JaTu\\study\\asp.net_mvc_tutorial\\SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
+              "ToolTip": "C:\\Users\\janat\\Documents\\study\\SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
               "RelativeToolTip": "Views\\Home\\CreateEditExpense.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T11:47:24.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T11:47:24.685Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\JaTu\\study\\asp.net_mvc_tutorial\\SpendSmart\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\janat\\Documents\\study\\SpendSmart\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\JaTu\\study\\asp.net_mvc_tutorial\\SpendSmart\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\janat\\Documents\\study\\SpendSmart\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T11:42:58.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\JaTu\\study\\asp.net_mvc_tutorial\\SpendSmart\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\JaTu\\study\\asp.net_mvc_tutorial\\SpendSmart\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:41:18.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\JaTu\\study\\asp.net_mvc_tutorial\\SpendSmart\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\JaTu\\study\\asp.net_mvc_tutorial\\SpendSmart\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:40:44.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T11:42:58.951Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\JaTu\\study\\asp.net_mvc_tutorial\\SpendSmart\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\JaTu\\study\\asp.net_mvc_tutorial\\SpendSmart\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T11:31:43.439Z",
-              "EditorCaption": ""
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\janat\\Documents\\study\\SpendSmart\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\janat\\Documents\\study\\SpendSmart\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:41:18.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Expenses.cshtml",
-              "DocumentMoniker": "D:\\JaTu\\study\\asp.net_mvc_tutorial\\SpendSmart\\Views\\Home\\Expenses.cshtml",
+              "DocumentMoniker": "C:\\Users\\janat\\Documents\\study\\SpendSmart\\Views\\Home\\Expenses.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Expenses.cshtml",
-              "ToolTip": "D:\\JaTu\\study\\asp.net_mvc_tutorial\\SpendSmart\\Views\\Home\\Expenses.cshtml*",
-              "RelativeToolTip": "Views\\Home\\Expenses.cshtml*",
+              "ToolTip": "C:\\Users\\janat\\Documents\\study\\SpendSmart\\Views\\Home\\Expenses.cshtml",
+              "RelativeToolTip": "Views\\Home\\Expenses.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-16T11:38:47.088Z",
@@ -137,16 +95,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpendSmartDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\janat\\Documents\\study\\SpendSmart\\Models\\SpendSmartDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\SpendSmartDbContext.cs",
+              "ToolTip": "C:\\Users\\janat\\Documents\\study\\SpendSmart\\Models\\SpendSmartDbContext.cs",
+              "RelativeToolTip": "Models\\SpendSmartDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:27:22.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\janat\\Documents\\study\\SpendSmart\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\janat\\Documents\\study\\SpendSmart\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:40:44.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\janat\\Documents\\study\\SpendSmart\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\janat\\Documents\\study\\SpendSmart\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T11:31:43.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Expense.cs",
-              "DocumentMoniker": "D:\\JaTu\\study\\asp.net_mvc_tutorial\\SpendSmart\\Models\\Expense.cs",
+              "DocumentMoniker": "C:\\Users\\janat\\Documents\\study\\SpendSmart\\Models\\Expense.cs",
               "RelativeDocumentMoniker": "Models\\Expense.cs",
-              "ToolTip": "D:\\JaTu\\study\\asp.net_mvc_tutorial\\SpendSmart\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\janat\\Documents\\study\\SpendSmart\\Models\\Expense.cs",
               "RelativeToolTip": "Models\\Expense.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:32:46.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T11:32:46.486Z"
             }
           ]
         }

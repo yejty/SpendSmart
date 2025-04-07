@@ -46,3 +46,6 @@ D:\JaTu\study\asp.net_mvc_tutorial\SpendSmart\bin\Debug\net8.0\Microsoft.Extensi
 D:\JaTu\study\asp.net_mvc_tutorial\SpendSmart\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 D:\JaTu\study\asp.net_mvc_tutorial\SpendSmart\obj\Debug\net8.0\SpendSmart.csproj.AssemblyReference.cache
 D:\JaTu\study\asp.net_mvc_tutorial\SpendSmart\obj\Debug\net8.0\SpendSmart.csproj.Up2Date
+C:\Users\janat\Documents\study\SpendSmart\obj\Debug\net8.0\SpendSmart.dll
+C:\Users\janat\Documents\study\SpendSmart\obj\Debug\net8.0\refint\SpendSmart.dll
+C:\Users\janat\Documents\study\SpendSmart\obj\Debug\net8.0\SpendSmart.pdb
